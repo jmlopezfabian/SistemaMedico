@@ -6,7 +6,7 @@ using SistemaMedico.Models;
 
 namespace SistemaMedico.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("LoginController")]
     [ApiController]
     public class LoginController : ControllerBase
     {

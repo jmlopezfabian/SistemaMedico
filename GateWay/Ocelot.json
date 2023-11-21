@@ -23,6 +23,52 @@
       ],
       "UpstreamPathTemplate": "/Expediente",
       "UpstreamHttpMethod": []
+    },
+    {
+      "DownstreamPathTemplate": "/HistorialController",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7031
+        }
+      ],
+      "UpstreamPathTemplate": "/Historial",
+      "UpstreamHttpMethod": []
+    },{
+      "DownstreamPathTemplate": "/LoginController",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7031
+        }
+      ],
+      "UpstreamPathTemplate": "/Login",
+      "UpstreamHttpMethod": []
+    },{
+      "DownstreamPathTemplate": "/PacientesController",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7031
+        }
+      ],
+      "UpstreamPathTemplate": "/Pacientes",
+      "UpstreamHttpMethod": []
+    },
+    {
+      "DownstreamPathTemplate": "/UsuarioController",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7031
+        }
+      ],
+      "UpstreamPathTemplate": "/Usuario",
+      "UpstreamHttpMethod": []
     }
   ],
   "GlobalConfiguration": {

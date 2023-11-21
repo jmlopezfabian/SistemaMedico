@@ -5,7 +5,7 @@ using SistemaMedico.Models;
 
 namespace SistemaMedico.Context
 {
-    [Route("api/[controller]")]
+    [Route("Historial")]
     [ApiController]
     public class HistorialController
     {

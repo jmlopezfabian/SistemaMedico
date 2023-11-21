@@ -18,7 +18,6 @@ namespace SistemaMedico.Controllers
             {
                 var existe = contexto.usuarios.SingleOrDefault(i => i.NombreUsuario == usuario && i.Contrasena == contrasena);
                 if (existe != null)
-
                 {
                     regreso = true;
                 }

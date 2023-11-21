@@ -67,3 +67,4 @@ C:\Users\jesus\source\repos\SistemaMedico\SistemaMedico\obj\Debug\net8.0\refint\
 C:\Users\jesus\source\repos\SistemaMedico\SistemaMedico\obj\Debug\net8.0\SistemaMedico.pdb
 C:\Users\jesus\source\repos\SistemaMedico\SistemaMedico\obj\Debug\net8.0\SistemaMedico.genruntimeconfig.cache
 C:\Users\jesus\source\repos\SistemaMedico\SistemaMedico\obj\Debug\net8.0\ref\SistemaMedico.dll
+C:\Users\jesus\source\repos\SistemaMedico\SistemaMedico\obj\Debug\net8.0\SistemaMedico.sourcelink.json
